@@ -1,0 +1,59 @@
+body{
+	width: 812px;
+    height: 376px;
+	/*background-image:url("./res/Main.png");*/
+}
+.main-page{
+	background-image:url("./res/Main.png");
+	position:absolute;
+	top:0;
+	left:0;
+	width:812px;
+	height:376px;
+}
+#Ellipse5{
+	position:absolute;
+	top: 152px;
+	left: 128px;
+	width: 116px;
+	height: 116px;
+	opacity: 0.95;
+}
+#Ellipse3{
+	position:absolute;
+	top: 224px;
+	left: 334px;
+	width: 116px;
+	height: 116px;
+	opacity: 0.95;
+}
+#Ellipse4{
+	position:absolute;
+	top: 167px;
+	left: 513px;
+	width: 122px;
+	height: 122px;
+	opacity:0.95;
+}
+#sMarket{
+	position:absolute;
+	top: 180px;
+	left: 149px;
+	width: 88px;
+	height: 42px;
+	opacity: 1;
+}
+#Mission{
+	position:absolute;
+	top: 199px;
+	left: 536px;
+	width: 88px;
+	height: 42px;
+}
+#Bear{
+	position:absolute;
+	top: 245px;
+	left: 354px;
+	width: 88px;
+	height: 55px;
+}
